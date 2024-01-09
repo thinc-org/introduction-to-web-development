@@ -1,24 +1,27 @@
 ---
 theme: ./theme
-background: https://source.unsplash.com/collection/94734566/1920x1080
 class: text-center
 highlighter: shikiji
 lineNumbers: false
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
 drawings:
   persist: false
 transition: slide-left
-title: Welcome to Slidev
+title: Introduction to Web Development
 mdc: true
+hideInToc: true
 ---
 
-# Welcome to Slidev
+# Introduction to Web Development
 
-Presentation slides for developers
+<div class="">
+  <a href="https://github.com/saenyakorn" target="_blank">
+    Saenyakorn Siangsanoh 
+  </a>
+  <br>
+  <a href="https://github.com/peam1146" target="_blank">
+    Supakarin Niansupornpun 
+  </a>
+</div>
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -26,15 +29,7 @@ Presentation slides for developers
   </span>
 </div>
 
-<div class="abs-br m-6 flex gap-2">
-  <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon:edit />
-  </button>
-  <a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub" title="Open in GitHub"
-    class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon-logo-github />
-  </a>
-</div>
+<Footer/>
 
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
@@ -42,63 +37,63 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 
-## transition: fade-out
 
-# What is Slidev?
+<div class="m-auto w-auto h-full flex justify-center items-center flex space-x-8 items-center">
+  <div>
+    <img src="https://avatars.githubusercontent.com/u/33742791?v=4" class="rounded-full size-65" alt="">
+  </div>
 
-Slidev is a slides maker and presenter designed for developers, consist of the following features
+  <div>
+    <h1 class="text-2xl font-bold">Saenyakorn Siangsanoh</h1>
+    <div class="text-xl">Thinc. #7, CP 46</div>
+    <div class="text-xl flex items-center"><strong class="mr-2">Software Engineer</strong> At <a style="border-style:none" href="https://softnetics.tech" target="_blank"><Softnetics class="ml-2 w-56 h-auto"/></a></div>
+  </div>
+</div>
 
-- 📝 **Text-based** - focus on the content with Markdown, and then style them later
-- 🎨 **Themable** - theme can be shared and used with npm packages
-- 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
-- 🤹 **Interactive** - embedding Vue components to enhance your expressions
-- 🎥 **Recording** - built-in recording and camera view
-- 📤 **Portable** - export into PDF, PNGs, or even a hostable SPA
-- 🛠 **Hackable** - anything possible on a webpage
+<Footer/>
 
-<br>
-<br>
-
-Read more about [Why Slidev?](https://sli.dev/guide/why)
-
-<!--
-You can have `style` tag in markdown to override the style for the current page.
-Learn more: https://sli.dev/guide/syntax#embedded-styles
--->
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-}
-</style>
-
-<!--
-Here is another comment.
--->
 
 ---
 
-## layout: default
+<div class="m-auto w-auto h-full flex justify-center items-center flex space-x-8 items-center">
+  <div>
+    <img src="https://avatars.githubusercontent.com/u/50145654?v=4" class="rounded-full size-65" alt="">
+  </div>
+
+  <div>
+    <h1 class="text-2xl font-bold">Supakarin Niansupornpun</h1>
+    <div class="text-xl">Thinc. #9, CP 48</div>
+    <div class="text-xl flex items-center slidev-vclick-target"><strong class="mr-2">President</strong> of <a style="border-style:none" href="https://thinc.in.th" target="_blank"><ThincLogo class="ml-2 w-36 h-auto pb-2"/></a></div>
+  </div>
+</div>
+
+<Footer/>
+
+---
+hideInToc: true
+---
 
 # Table of contents
 
-```html
-<Toc minDepth="1" maxDepth="1"></Toc>
-```
+<Toc />
 
-<Toc maxDepth="1"></Toc>
+<Footer/>
 
 ---
 
+# Begin of Web Development
+
+<div class="flex w-full pt-4 items-center justify-center space-x-12">
+  <img width="200"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Netscape_icon_2007.svg/1200px-Netscape_icon_2007.svg.png" alt="netscape" />
+
+  <img width="350" src="https://www.zdnet.com/a/img/2014/10/20/79e0c246-5840-11e4-b6a0-d4ae52e95e57/netscape1.jpg" alt="netscape" />
+</div>
+
+<Footer/>
+
+---
 transition: slide-up
 level: 2
-
 ---
 
 # Navigation
