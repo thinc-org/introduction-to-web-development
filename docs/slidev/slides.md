@@ -30,6 +30,51 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 
 ---
+layout: statement
+hideInToc: true
+---
+
+<ThincLogo class="size-64"/>
+# Thailand Incubator Club
+
+---
+layout: statement
+hideInToc: true
+---
+
+# Impact we made
+
+---
+hideInToc: true
+---
+
+# CU Pop Bus
+
+---
+hideInToc: true
+---
+
+# CU Sport Center (Booking System)
+
+---
+hideInToc: true
+---
+
+# CU GetReg
+
+---
+hideInToc: true
+---
+
+# CEDT Portal Internship
+
+---
+hideInToc: true
+---
+
+# MCV Next Gen
+
+---
 
 
 <div class="m-auto w-auto h-full flex justify-center items-center flex space-x-8 items-center">
@@ -69,7 +114,7 @@ hideInToc: true
 
 # Table of contents
 
-<Toc />
+<Toc columns="3" />
 
 <Footer/>
 
@@ -84,3 +129,147 @@ hideInToc: true
 </div>
 
 <Footer/>
+
+---
+
+# HyperText Markup Language (HTML)
+
+---
+
+# Internet
+
+
+---
+
+# Cascading Style Sheets (CSS)
+
+---
+
+# JavaScript (JS)
+
+---
+
+# Web 1.0, 2.0, 3.0 and 5.0
+
+---
+
+# Server Side Rendering (SSR)
+
+---
+
+# Client Side Rendering (CSR)
+
+---
+
+# SSG, ISR, RSC and more
+
+---
+
+# Old School Web Development
+
+1. PHP
+2. JAVA
+3. Ruby on Rails
+
+---
+
+# Web Frameworks
+
+## Why do we need it?
+
+---
+
+# Angular
+
+--- 
+
+# React
+
+---
+
+# NextJS
+
+---
+
+# Full Stack Web Development
+
+---
+
+# Back to Basics
+
+## "use server"
+
+---
+
+# Do we need backend?
+
+---
+
+# Backend Purpose
+
+---
+
+# Backend Paradigms
+
+1. Monolithic
+2. Microservice
+3. Serverless
+4. Etc.
+
+---
+layout: statement
+---
+
+# Backend Languages
+
+<h3 v-click>
+ You can use any language you want
+</h3>
+
+---
+
+# Backend Frameworks in 2023 - 2024
+
+---
+
+# Version Control System (VCS)
+
+---
+
+# Git
+
+---
+
+# Dev(Sec)Ops
+
+---
+
+# Docker
+
+---
+
+# Kubernetes
+
+---
+
+# GitOps
+
+--- 
+
+# Cloud Providers
+
+---
+
+# Clean Code
+
+---
+
+# Software Architecture
+
+---
+
+# Software Design Patterns
+
+---
+
+# Find your passion
