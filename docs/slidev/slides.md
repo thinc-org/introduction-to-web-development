@@ -588,5 +588,11 @@ layout: quote
 <Tweet id="1163789159309434880"/>
 
 ---
+layout: center
+---
+
+# Agile is about code
+
+---
 
 # Find your passion
