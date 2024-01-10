@@ -107,26 +107,32 @@ hideInToc: true
 
 ---
 src: ./pages/what-is-browser/parsing.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/what-is-browser/n-tier.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/evolution/intro.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/evolution/web-1.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/evolution/web-2.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/evolution/web-3.md
+hideInToc: true
 ---
 
 ---
