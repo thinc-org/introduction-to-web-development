@@ -180,20 +180,87 @@ hideInToc: true
 
 ---
 
-# HyperText Markup Language (HTML)
+# What is Browser
+
+**Browser** is **application program** that provides a way to look at and interact with all the information on the World Wide Web.
+
+<div class="bg-white">
+  <img src="/public/assets/browser.png" alt="" />
+</div>
 
 ---
 
-# Internet
+# Actual network scenario
 
+FYI, you don't have to know all of this.
+
+<img src="/public/assets/actual-network.png" alt="" class="h-[400px]" />
 
 ---
 
-# Cascading Style Sheets (CSS)
+# After browser get content (DOM)
+
+Browser will take HTML to construct **DOM (Document Object Model)**.
+
+```html {all|6-7}
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link ref="stylesheet" href="LINK" />
+    <script type="text/javascript" src="LINK"></script>
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Hello World</h1>
+  </body>
+</html>
+```
 
 ---
+
+# Stylesheet (CSS)
+
+Browser will take CSS to construct **CSSOM (CSS Object Model)**.
+
+```css
+h1 {
+  color: red;
+}
+```
 
 # JavaScript (JS)
+
+```js
+function onClick() {
+  alert("Hello World");
+}
+
+document.querySelector("h1").addEventListener("click", onClick);
+```
+
+---
+layout: image-right
+image: https://miro.medium.com/v2/resize:fit:4800/format:webp/1*ejR8TwuRBqTRDKmAJeltig.png
+---
+
+# HTML, CSS, JS parsing
+
+Reference: 
+
+- https://web.dev/articles/howbrowserswork
+- https://web.dev/articles/critical-rendering-path/constructing-the-object-model
+- https://javascript.plainenglish.io/web-performance-understanding-critical-rendering-path-72283caefc1f
+
+---
+
+# N-tier Architecture
+
+<div class="bg-white">
+  <img src="/public/assets/architecture.png" alt="" />
+</div>
+
 
 ---
 
