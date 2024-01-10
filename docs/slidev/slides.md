@@ -306,6 +306,11 @@ layout: statement
 
 # Clean Code
 
+- Naming
+- Commenting
+- SOLID
+- KISS (Keep It Simple Stupid)
+
 ---
 
 # Software Architecture
