@@ -13,17 +13,9 @@ hideInToc: true
 
 # Introduction to Web Development
 
-<div class="">
-  <a href="https://github.com/saenyakorn" target="_blank">
-    Saenyakorn Siangsanoh 
-  </a>
-  <br>
-  <a href="https://github.com/peam1146" target="_blank">
-    Supakarin Niansupornpun 
-  </a>
-</div>
+Basic you need to know before you start your journey.
 
-<Footer/>
+<Footer />
 
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
@@ -48,6 +40,8 @@ hideInToc: true
 hideInToc: true
 layout: center
 ---
+
+
 
 <div class="grid grid-cols-3 gap-2">
   <div class="justify-self-center">
@@ -185,7 +179,7 @@ hideInToc: true
 **Browser** is **application program** that provides a way to look at and interact with all the information on the World Wide Web.
 
 <div class="bg-white">
-  <img src="/public/assets/browser.png" alt="" />
+  <img src="/assets/browser.png" alt="" />
 </div>
 
 ---
@@ -194,7 +188,7 @@ hideInToc: true
 
 FYI, you don't have to know all of this.
 
-<img src="/public/assets/actual-network.png" alt="" class="h-[400px]" />
+<img src="/assets/actual-network.png" alt="" class="h-[400px]" />
 
 ---
 
@@ -258,13 +252,65 @@ Reference:
 # N-tier Architecture
 
 <div class="bg-white">
-  <img src="/public/assets/architecture.png" alt="" />
+  <img src="/assets/architecture.png" alt="" />
 </div>
-
 
 ---
 
-# Web 1.0, 2.0, 3.0 and 5.0
+# Web Evolution
+
+<img src="https://www.goodrequest.com/_next/image?url=https%3A%2F%2Fgoodrequest-web.s3.eu-central-1.amazonaws.com%2FHistory_of_web_Web_1_0_3_0_8124a4915c.png&w=3840&q=75" alt="" class="h-[400px]" />
+
+---
+
+# Web 1.0
+
+The customer can not edit the content that the website provides which means that **the customer can only read the content**.
+
+### Keyword
+
+- **One-way communication**
+- **Read**
+
+### Example
+
+- News website
+- Wikipedia
+- etc.
+
+---
+
+# Web 2.0
+
+The customer can interact with the website by **editing the content**. The website will be updated in real-time which leads to the **growth of social media**.
+
+### Keyword
+
+- **Two-way communication**
+- **Read-Write**
+
+### Example
+
+- Facebook
+- Twitter
+- Instagram
+- etc.
+
+---
+
+# Web 3.0
+
+As the internet grows, the amount of data that the website has to handle is increasing. **Web 3.0** is the solution to this problem. It is the **decentralized web** that uses **blockchain** to store data. We might don't want to trust the third party to store our data.
+
+### Keyword
+
+- **Decentralized**
+- **Read-Write-Trust**
+
+### Example
+
+- PancakeSwap
+- Uniswap
 
 ---
 
