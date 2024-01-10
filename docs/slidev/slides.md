@@ -46,27 +46,75 @@ hideInToc: true
 
 ---
 hideInToc: true
+layout: center
 ---
 
-# CU Pop Bus
+<div class="grid grid-cols-3 gap-2">
+  <div class="justify-self-center">
+    <img src="https://github.com/thinc-org/.github/raw/master/profile/assets/cupb-logo.png">
+  </div>
+
+  <div class="col-span-2">
+    <h1 class="font-bold">CU Pop Bus (Deprecated)</h1>
+    <p align="center">
+      Never get lost in Chula again! Chula Pop Bus App helps make navigation through Chulalongkorn University much easier.
+    </p>
+  </div>
+</div>
 
 ---
 hideInToc: true
+layout: center
 ---
 
-# CU Sport Center (Booking System)
+<div class="grid grid-cols-3 gap-2">
+  <div class="justify-self-center">
+    <a href="https://book.cusc.chula.ac.th">
+        <img src="https://github.com/thinc-org/.github/raw/master/profile/assets/cusc-logo.png">
+    </a>
+  </div>
+
+  <div class="col-span-2">
+    <h1 class="font-bold">CU Sports Center</h1>
+    <p align="center">
+      Tired of running to the sports center early every day? Now, you can book your court reservations anywhere at anytime.
+    </p>
+  </div>
+</div>
 
 ---
 hideInToc: true
+layout: center
 ---
 
-# CU GetReg
+
+<div class="grid grid-cols-3 gap-2">
+  <div class="justify-self-center">
+    <a href="https://cugetreg.com">
+        <img src="https://github.com/thinc-org/.github/raw/master/profile/assets/cgr-logo.png">
+    </a>
+  </div>
+
+  <div class="col-span-2">
+    <h1 class="font-bold">CU Get Reg</h1>
+    <p align="center">
+        Have no idea what courses to take? Don't know what this course is about? We got it covered. With CU Get Reg, we put all kinds of course data together so that you don't have to.
+    </p>
+  </div>
+</div>
+
 
 ---
 hideInToc: true
+layout: center
 ---
 
 # CEDT Portal Internship
+
+<div class="grid grid-cols-2 gap-2 items-center">
+  <img src="/image/cedt-home.png" alt="cedt-home" width="450">
+  <img src="/image/cedt-fav-pos.png" alt="cedt-home" width="450">
+</div>
 
 ---
 hideInToc: true
@@ -176,10 +224,6 @@ hideInToc: true
 # Web Frameworks
 
 ## Why do we need it?
-
----
-
-# Angular
 
 --- 
 
