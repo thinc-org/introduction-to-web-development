@@ -81,12 +81,26 @@ hideInToc: true
 
 <Footer/>
 
+
+---
+layout: section
+---
+
+# What is a web browser?
+
+And how does it work?
+
 ---
 src: ./pages/what-is-browser/what-is.md
 ---
 
 ---
-src: ./pages/what-is-browser/scheme.md
+src: ./pages/what-is-browser/url-vs-uri.md
+hideInToc: true
+---
+
+---
+src: ./pages/what-is-browser/url.md
 hideInToc: true
 ---
 
@@ -96,24 +110,52 @@ hideInToc: true
 ---
 
 ---
-src: ./pages/what-is-browser/dom.md
+layout: section
+---
+
+# How Browser render a page?
+
+<div class="bg-white">
+  <img src="/assets/browser.png" alt="" />
+</div>
+
+---
+src: ./pages/browser-rendering/html.md
 hideInToc: true
 ---
 
 ---
-src: ./pages/what-is-browser/cssdom.md
+src: ./pages/browser-rendering/css-js.md
 hideInToc: true
 ---
 
 ---
-src: ./pages/what-is-browser/parsing.md
+src: ./pages/browser-rendering/dom.md
 hideInToc: true
 ---
+
+---
+src: ./pages/browser-rendering/cssom.md
+hideInToc: true
+---
+
+---
+src: ./pages/browser-rendering/crp.md
+hideInToc: true
+---
+
+---
+layout: section
+---
+
+# How real-world web application works?
 
 ---
 src: ./pages/what-is-browser/n-tier.md
 hideInToc: true
 ---
+
+
 
 ---
 src: ./pages/evolution/intro.md

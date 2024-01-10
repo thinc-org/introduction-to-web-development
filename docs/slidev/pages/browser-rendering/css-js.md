@@ -3,9 +3,8 @@
 
 # Stylesheet (CSS)
 
-Browser will take CSS to construct **CSSOM (CSS Object Model)**.
-
 ```css
+/* stylesheet.css */
 h1 {
   color: red;
 }
@@ -14,6 +13,7 @@ h1 {
 # JavaScript (JS)
 
 ```js
+/* script.js */
 function onClick() {
   alert('Hello World')
 }
