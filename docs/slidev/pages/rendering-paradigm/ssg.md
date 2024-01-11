@@ -1,0 +1,4 @@
+---
+---
+
+# Static Site Generation (SSG)

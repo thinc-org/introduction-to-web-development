@@ -81,6 +81,35 @@ hideInToc: true
 
 <Footer/>
 
+---
+layout: section
+---
+
+# Web Evolution
+
+Since the beginning of the web, it has evolved a lot.
+
+---
+src: ./pages/evolution/intro.md
+hideInToc: true
+---
+
+---
+src: ./pages/evolution/web-1.md
+hideInToc: true
+---
+
+---
+src: ./pages/evolution/web-2.md
+hideInToc: true
+---
+
+---
+src: ./pages/evolution/web-3.md
+hideInToc: true
+---
+
+
 
 ---
 layout: section
@@ -115,9 +144,7 @@ layout: section
 
 # How Browser render a page?
 
-<div class="bg-white">
-  <img src="/assets/browser.png" alt="" />
-</div>
+![](/assets/browser.png){style="background: white;"}
 
 ---
 src: ./pages/browser-rendering/html.md
@@ -126,6 +153,16 @@ hideInToc: true
 
 ---
 src: ./pages/browser-rendering/css-js.md
+hideInToc: true
+---
+
+---
+src: ./pages/browser-rendering/learning-resources-1.md
+hideInToc: true
+---
+
+---
+src: ./pages/browser-rendering/learning-resources-2.md
 hideInToc: true
 ---
 
@@ -148,46 +185,71 @@ hideInToc: true
 layout: section
 ---
 
-# How real-world web application works?
+# Rendering Paradigm
+
+How web server send the page to the browser?
 
 ---
-src: ./pages/what-is-browser/n-tier.md
-hideInToc: true
----
-
-
-
----
-src: ./pages/evolution/intro.md
-hideInToc: true
+src: ./pages/rendering-paradigm/intro.md
 ---
 
 ---
-src: ./pages/evolution/web-1.md
-hideInToc: true
+src: ./pages/rendering-paradigm/ssr.md
 ---
 
 ---
-src: ./pages/evolution/web-2.md
-hideInToc: true
+src: ./pages/rendering-paradigm/csr.md
 ---
 
 ---
-src: ./pages/evolution/web-3.md
-hideInToc: true
+src: ./pages/rendering-paradigm/ssg.md
 ---
 
 ---
-
-# Server Side Rendering (SSR)
-
+src: ./pages/rendering-paradigm/isr.md
 ---
 
-# Client Side Rendering (CSR)
-
+---
+src: ./pages/rendering-paradigm/rsc.md
 ---
 
-# SSG, ISR, RSC and more
+---
+layout: section
+---
+
+# Software Development Life Cycle (SDLC)
+
+---
+src: ./pages/sdlc/intro.md
+---
+
+---
+src: ./pages/sdlc/waterfall.md
+---
+
+---
+src: ./pages/sdlc/agile.md
+---
+
+---
+src: ./pages/sdlc/team.md
+---
+
+---
+src: ./pages/sdlc/pm.md
+---
+
+---
+src: ./pages/sdlc/po.md
+---
+
+---
+src: ./pages/sdlc/designer.md
+---
+
+---
+src: ./pages/sdlc/se.md
+---
 
 ---
 

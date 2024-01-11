@@ -1,0 +1,5 @@
+---
+---
+
+# Incremental Static Regeneration (ISR)
+
