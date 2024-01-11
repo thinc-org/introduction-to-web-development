@@ -63,11 +63,15 @@ hideInToc: true
 hideInToc: true
 ---
 
-# Table of contents
+# Table of Contents
 
 <Toc columns="3" />
 
 <Footer/>
+
+---
+src: ./pages/goal.md
+---
 
 ---
 
@@ -121,6 +125,7 @@ And how does it work?
 
 ---
 src: ./pages/what-is-browser/what-is.md
+hideInToc: true
 ---
 
 ---
@@ -191,30 +196,37 @@ How web server send the page to the browser?
 
 ---
 src: ./pages/rendering-paradigm/intro.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/rendering-paradigm/ssr.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/rendering-paradigm/csr.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/rendering-paradigm/curl-csr.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/rendering-paradigm/ssg.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/rendering-paradigm/isr.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/rendering-paradigm/outro.md
+hideInToc: true
 ---
 
 ---
@@ -225,62 +237,77 @@ layout: section
 
 ---
 src: ./pages/sdlc/intro.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/sdlc/waterfall.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/sdlc/agile.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/sdlc/agile-2.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/sdlc/agile-3.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/sdlc/team.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/sdlc/po-pm.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/sdlc/po-pm-meme.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/sdlc/designer.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/sdlc/designer-meme.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/sdlc/designer-meme-2.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/sdlc/developer.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/sdlc/qa.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/sdlc/devops.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/sdlc/infra.md
+hideInToc: true
 ---
 
 ---
@@ -291,37 +318,13 @@ layout: section
 
 ---
 src: ./pages/development-tools/old-school.md
+hideInToc: true
 ---
 
 ---
 src: ./pages/development-tools/state-of-js.md
+hideInToc: true
 ---
-
---- 
-
-# React
-
----
-
-# NextJS
-
----
-
-# Full Stack Web Development
-
----
-
-# Back to Basics
-
-## "use server"
-
----
-
-# Do we need backend?
-
----
-
-# Backend Purpose
 
 ---
 

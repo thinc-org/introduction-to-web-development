@@ -12,7 +12,7 @@ layout: center
 
   <div class="col-span-2">
     <h1 class="font-bold">CU Sports Center</h1>
-    <p align="center">
+    <p>
       Tired of running to the sports center early every day? Now, you can book your court reservations anywhere at anytime.
     </p>
   </div>

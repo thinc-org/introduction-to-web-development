@@ -12,7 +12,7 @@ layout: center
 
   <div class="col-span-2">
     <h1 class="font-bold">CU Get Reg</h1>
-    <p align="center">
+    <p>
         Have no idea what courses to take? Don't know what this course is about? We got it covered. With CU Get Reg, we put all kinds of course data together so that you don't have to.
     </p>
   </div>

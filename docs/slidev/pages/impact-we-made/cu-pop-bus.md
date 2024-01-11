@@ -10,7 +10,7 @@ layout: center
 
   <div class="col-span-2">
     <h1 class="font-bold">CU Pop Bus (Deprecated)</h1>
-    <p align="center">
+    <p>
       Never get lost in Chula again! Chula Pop Bus App helps make navigation through Chulalongkorn University much easier.
     </p>
   </div>
