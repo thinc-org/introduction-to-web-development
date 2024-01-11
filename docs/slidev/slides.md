@@ -75,7 +75,7 @@ src: ./pages/goal.md
 
 ---
 
-# Begin of Web Development
+# Beginning of Web Development
 
 <div class="flex w-full pt-4 items-center justify-center space-x-12">
   <img width="200"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Netscape_icon_2007.svg/1200px-Netscape_icon_2007.svg.png" alt="netscape" />
@@ -83,7 +83,15 @@ src: ./pages/goal.md
   <img width="350" src="https://www.zdnet.com/a/img/2014/10/20/79e0c246-5840-11e4-b6a0-d4ae52e95e57/netscape1.jpg" alt="netscape" />
 </div>
 
-<Footer/>
+<Footer />
+
+---
+hideInToc: true
+---
+
+# Full details
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5oKO6e0E6IA?si=mHG7SR9zz5JMdO6y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin: auto"></iframe>
 
 ---
 layout: section
@@ -476,6 +484,10 @@ doSomething({
 layout: iframe
 url: https://typehero.dev/
 ---
+
+---
+
+# Frontend Frameworks in 2023 - 2024
 
 ---
 
