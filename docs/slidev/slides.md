@@ -232,15 +232,19 @@ src: ./pages/sdlc/agile.md
 ---
 
 ---
+src: ./pages/sdlc/agile-2.md
+---
+
+---
 src: ./pages/sdlc/team.md
 ---
 
 ---
-src: ./pages/sdlc/pm.md
+src: ./pages/sdlc/po-pm.md
 ---
 
 ---
-src: ./pages/sdlc/po.md
+src: ./pages/sdlc/po-pm-meme.md
 ---
 
 ---
@@ -248,8 +252,34 @@ src: ./pages/sdlc/designer.md
 ---
 
 ---
-src: ./pages/sdlc/se.md
+src: ./pages/sdlc/designer-meme.md
 ---
+
+---
+src: ./pages/sdlc/designer-meme-2.md
+---
+
+---
+src: ./pages/sdlc/developer.md
+---
+
+---
+src: ./pages/sdlc/qa.md
+---
+
+---
+src: ./pages/sdlc/devops.md
+---
+
+---
+src: ./pages/sdlc/infra.md
+---
+
+---
+layout: section
+---
+
+# Development Tools
 
 ---
 
