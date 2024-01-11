@@ -290,18 +290,12 @@ layout: section
 # Development Tools
 
 ---
-
-# Old School Web Development
-
-1. PHP
-2. JAVA
-3. Ruby on Rails
-
+src: ./pages/development-tools/old-school.md
 ---
 
-# Web Frameworks
-
-## Why do we need it?
+---
+src: ./pages/development-tools/state-of-js.md
+---
 
 --- 
 
