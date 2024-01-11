@@ -1,11 +1,12 @@
 ---
+title: Client-side rendering
 ---
 
 # Client-side rendering
 
 ![](/assets/csr.png){width=70%}
 
-```html {all|9,11}
+```html {all|9-11}
 <!-- index.html -->
 <!doctype html>
 <html lang="en">
@@ -23,5 +24,9 @@
 
 ```js
 // index.js
-React.render(<App />, document.getElementById('body'))s
+React.render(<App />, document.getElementById('body'))
 ```
+
+<!--
+ไม่รู้ว่าเจ้าไหนทำเป็นคนแรก แต่คนแรกที่ทำแล้ว mass คือ React
+-->

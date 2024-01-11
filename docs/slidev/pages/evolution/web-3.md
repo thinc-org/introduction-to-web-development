@@ -1,5 +1,6 @@
 ---
 layout: two-cols-header
+title: Web 3.0
 ---
 
 # Web 3.0
@@ -18,3 +19,7 @@ As the internet grows, the amount of data that the website has to handle is incr
 ### Example
 
 ![](https://miro.medium.com/v2/resize:fit:1400/0*FLPu35BPz2Eh6Odf)
+
+<!--
+ลองถาม ๆ ดูว่าใครมีตัวอย่างอื่นอีกไหม
+-->

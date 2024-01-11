@@ -1,5 +1,6 @@
 ---
 layout: full
+title: HTML
 ---
 
 # HTML
@@ -21,3 +22,7 @@ HTML is a **markup language** that is used to construct a web page. It is a **te
   </body>
 </html>
 ```
+
+<!--
+เล่าส่วนประกอบของ HTML
+-->

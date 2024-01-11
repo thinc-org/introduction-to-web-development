@@ -1,4 +1,5 @@
 ---
+title: Goal of this session
 ---
 
 # Goal of this session
@@ -11,3 +12,9 @@
 <br />
 
 > For people who used to work as Web Developers, this session might be too basic. However, it is important to understand the basics of the Software Development Life Cycle and the Software Development Process.
+
+<!--
+Set the expectation of this session.
+
+เน้นเนื้อหากว้าง ๆ ให้พอเข้าใจภาพวมแล้วไปหาเองต่อได้
+-->

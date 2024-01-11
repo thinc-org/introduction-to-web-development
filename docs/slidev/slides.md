@@ -94,6 +94,10 @@ src: ./pages/goal.md
 
 <Footer />
 
+<!--
+สมัยก่อน browser เป็นเพียงแค่ document ที่ link ไปมา เพื่อให้นักวิจัยหาข้อมูลกันง่ายขึ้นแต่หลัง ๆ คนให้ความสนใจเยอะ ก็เลยเกิด multi media แสดงภาพได้แต่มันช้ามาก etscape แก้โดยการ render text before image แต่สุดท้ายแพ้ IE เพราะเรื่อง bind with OS
+-->
+
 ---
 hideInToc: true
 ---
@@ -138,6 +142,10 @@ layout: section
 
 And how does it work?
 
+<!--
+จังหวะนี้คือผ่อนความเร็วลง แล้วก็ลองถามเล่น ๆ ว่าคิดว่า browserำหน้าที่อะไร คืออะไร
+-->
+
 ---
 src: ./pages/what-is-browser/what-is.md
 hideInToc: true
@@ -165,6 +173,10 @@ layout: section
 # How Browser render a page?
 
 ![](/assets/browser.png){style="background: white;"}
+
+<!--
+ท้าวความเมื่อกี้ แล้วก็เกริ่นว่าหลังจากได้ HTML มาแล้ว ทำไรต่อ
+-->
 
 ---
 src: ./pages/browser-rendering/html.md
@@ -518,7 +530,7 @@ url: https://typehero.dev/
 
 # GitOps
 
---- 
+---
 
 # Cloud Providers
 
