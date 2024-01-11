@@ -240,6 +240,10 @@ src: ./pages/sdlc/agile-2.md
 ---
 
 ---
+src: ./pages/sdlc/agile-3.md
+---
+
+---
 src: ./pages/sdlc/team.md
 ---
 
