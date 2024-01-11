@@ -113,8 +113,6 @@ src: ./pages/evolution/web-3.md
 hideInToc: true
 ---
 
-
-
 ---
 layout: section
 ---
@@ -317,36 +315,60 @@ layout: section
 # Development Tools
 
 ---
-src: ./pages/development-tools/old-school.md
+src: ./pages/development-tools/vscode.md
 hideInToc: true
 ---
 
 ---
-src: ./pages/development-tools/state-of-js.md
+src: ./pages/development-tools/github.md
 hideInToc: true
 ---
 
 ---
+src: ./pages/development-tools/github-2.md
+hideInToc: true
+---
+
+---
+src: ./pages/development-tools/github-3.md
+hideInToc: true
+---
+
+---
+layout: section
+---
+
+# Programming Language
+
+How to choose the right language?
+
+<div v-click>
+  <div class="flex items-center justify-center absolute inset-0 bg-gray-900/90 text-7xl font-bold">
+    Use whatever you want
+  </div>
+</div>
+
+---
+src: ./pages/which-programming-language-to-use/old-school.md
+hideInToc: true
+---
+
+---
+src: ./pages/which-programming-language-to-use/state-of-js.md
+hideInToc: true
+---
+
+<!-- ---
 
 # Backend Paradigms
 
 1. Monolithic
 2. Microservice
 3. Serverless
-4. Etc.
+4. Etc. -->
 
 ---
-layout: statement
----
-
-# Backend Languages
-
-<h3 v-click>
- You can use any language you want
-</h3>
-
----
-layout: statement
+layout: section
 ---
 
 # Language You Should Know in 2024
@@ -461,14 +483,6 @@ url: https://typehero.dev/
 
 ---
 
-# Version Control System (VCS)
-
----
-
-# Git
-
----
-
 # Dev(Sec)Ops
 
 ---
@@ -488,7 +502,7 @@ url: https://typehero.dev/
 # Cloud Providers
 
 ---
-layout: statement
+layout: section
 hideInToc: true
 ---
 
