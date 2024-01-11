@@ -1,4 +1,6 @@
 ---
 ---
+ 
+# Server-side redering (SSR)
 
-# Server-side redering
+![](/assets/ssr.png)

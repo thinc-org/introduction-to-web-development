@@ -202,6 +202,10 @@ src: ./pages/rendering-paradigm/csr.md
 ---
 
 ---
+src: ./pages/rendering-paradigm/curl-csr.md
+---
+
+---
 src: ./pages/rendering-paradigm/ssg.md
 ---
 
@@ -210,7 +214,7 @@ src: ./pages/rendering-paradigm/isr.md
 ---
 
 ---
-src: ./pages/rendering-paradigm/rsc.md
+src: ./pages/rendering-paradigm/outro.md
 ---
 
 ---

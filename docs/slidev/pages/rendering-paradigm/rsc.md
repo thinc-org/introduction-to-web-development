@@ -1,5 +1,0 @@
----
----
-
-# React Server Component (RSC)
-
