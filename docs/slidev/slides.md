@@ -18,6 +18,15 @@ Basic you need to know before you start your journey.
 <Footer />
 
 ---
+layout: section
+hideInToc: true
+---
+
+![](/assets/qr-code.png){style="margin: auto"}
+
+Slide: https://thinc-org.github.io/introduction-to-web-development/1
+
+---
 src: ./pages/intro.md
 hideInToc: true
 ---
