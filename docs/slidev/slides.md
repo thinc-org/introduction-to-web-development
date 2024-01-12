@@ -387,14 +387,27 @@ src: ./pages/which-programming-language-to-use/state-of-js.md
 hideInToc: true
 ---
 
-<!-- ---
+---
+layout: center
+---
 
-# Backend Paradigms
+# Frameworks in 2023 - 2024
 
-1. Monolithic
-2. Microservice
-3. Serverless
-4. Etc. -->
+---
+layout: two-cols
+---
+
+<img src="/image/frontend.png" alt="frontend-stack" class="h-[500px] m-auto" />
+
+::  right ::
+
+<img src="/image/backend.png" alt="backend-stack" class="h-[500px] m-auto" />
+
+---
+
+# Softnetics Tech Stack
+
+<img src="/image/softnetics-tech-stack.png" alt="softnetics-tech-stack" class="h-[450px] m-auto" />
 
 ---
 layout: section
@@ -505,18 +518,6 @@ doSomething({
 layout: iframe
 url: https://typehero.dev/
 ---
-
----
-
-# Frontend Frameworks in 2023 - 2024
-
----
-
-# Backend Frameworks in 2023 - 2024
-
----
-
-# Dev(Sec)Ops
 
 ---
 
@@ -735,8 +736,41 @@ layout: quote
 layout: center
 ---
 
-# Agile is about code
+# Unit Test
 
 ---
 
-# Find your passion
+# Myths about writing test
+
+1. Test make you lose time
+2. Test make you refactor easier
+3. Tests are too hard to maintain
+4. Tests don't catch real-world issues
+5. **Writing tests is not the developer's responsibility**
+
+---
+
+# Test Driven Development (TDD)
+
+1. Write production code only to pass a failing unit test.
+2. Write no more of a unit test than sufficient to fail (compilation failures are failures).
+3. Write no more production code than necessary to pass the one failing unit test.
+
+---
+layout: quote
+---
+
+“มันเป็นเรื่องสามัญสำนึกที่จะเอาวิธีการหนึ่งมาลอง ถ้ามันล้มเหลว ก็ยอมรับอย่างตรงไปตรงมาและลองอีกวิธีหนึ่ง แต่ที่สำคัญที่สุดคือต้องลองบางอย่าง”
+
+<br>
+
+“It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.”
+
+Franklin D. Roosevelt
+
+<style>
+  .slidev-layout p {
+    font-size: 2rem;
+    line-height: 1.5 !important;
+  }
+</style>
