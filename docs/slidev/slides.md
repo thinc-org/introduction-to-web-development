@@ -69,9 +69,10 @@ hideInToc: true
 ---
 
 ---
-layout: image
-image: /image/mcv-webflow.png
+layout: center
 ---
+
+<img src="/image/mcv-webflow.png" alt="webflow" class="h-[400px] m-auto" />
 
 ---
 layout: center
