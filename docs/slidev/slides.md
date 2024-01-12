@@ -532,8 +532,30 @@ url: https://typehero.dev/
 # GitOps
 
 ---
+layout: two-cols-header
+---
 
 # Cloud Providers
+
+:: left ::
+
+![](https://www.freecodecamp.org/news/content/images/2020/10/gcp.png){width=120px; style="background: white"}
+
+![](https://assets.intersystems.com/dims4/default/b4f6c99/2147483647/strip/false/crop/750x422+15+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Finter-systems-brightspot.s3.amazonaws.com%2F26%2Fbd%2F6a6aa762425f87ad7d5c2fe65f8c%2Fawslogo-image.jpg){width=120px; style="background: white"}
+
+![](https://megacloud.co.th/wp-content/uploads/2023/01/hw_clound_service-1024x584.png){width=120px; style="background: white"}
+
+![](https://www.mshowto.org/images/articles/2019/12/digitalocean_mshowto20.jpg){width=120px; style="background: white"}
+
+:: right ::
+
+![](https://camo.githubusercontent.com/bd5d6c8c415ea2f61c508135a81573f5498bf54d485126bca770b96a3a011556/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6865726f6b752d312e737667){width=120px; style="background: white"}
+
+![](https://mms.businesswire.com/media/20211123005573/en/929867/23/vercel-logo-freelogovectors.net.jpg){width=120px; style="background: white"}
+
+![](https://simplecore.intel.com/intel-capital/wp-content/uploads/sites/99/Fly.io-logo_1536x600.jpg){width=120px; style="background: white"}
+
+![](https://railway.app/brand/logo-dark.svg){width=120px; style="background: white"}
 
 ---
 layout: section
