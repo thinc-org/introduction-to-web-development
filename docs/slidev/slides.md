@@ -74,7 +74,7 @@ hideInToc: true
 
 # Table of Contents
 
-<Toc columns="3" />
+<Toc columns="2" depth="0" />
 
 <Footer/>
 
@@ -404,6 +404,8 @@ layout: two-cols
 <img src="/image/backend.png" alt="backend-stack" class="h-[500px] m-auto" />
 
 ---
+hideInToc: true
+---
 
 # Softnetics Tech Stack
 
@@ -417,6 +419,7 @@ layout: section
 
 ---
 layout: center
+hideInToc: true
 ---
 
 # TypeScript
@@ -425,6 +428,7 @@ layout: center
 
 ---
 layout: center
+hideInToc: true
 ---
 
 # JavaScript is a mess
@@ -440,6 +444,8 @@ layout: center
 
 <img src="https://www.freecodecamp.org/news/content/images/2019/07/panel-1-1.png" alt="js-hell" class="w-[800px]" />
 
+---
+hideInToc: true
 ---
 
 # Which property is missing?
@@ -471,6 +477,8 @@ doSomething({
 });
 ```
 
+---
+hideInToc: true
 ---
 
 # TypeScript is a solution
@@ -507,6 +515,8 @@ doSomething({
 </style>
 
 ---
+hideInToc: true
+---
 
 # Power of TypeScript (eg. [tRPC](https://trpc.io))
 
@@ -521,18 +531,58 @@ url: https://typehero.dev/
 
 ---
 
+# Additional Topic
+
+---
+hideInToc: true
+---
+
 # Docker
 
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*XvJ0GDWOAEHNApZvw-dOVQ.png" alt="docker" class="h-[400px] m-auto" />
+
+---
+hideInToc: true
+---
+
+# Docker Session
+
+<Youtube class="h-[450px] m-auto aspect-video" id="mapfxh2cLZ8"/>
+
+---
+hideInToc: true
+---
+
+# Containerization vs Virtualization
+
+<img src="https://www.netapp.com/media/Screen-Shot-2018-03-20-at-9.24.09-AM_tcm19-56643.png" alt="docker" class="h-[400px] m-auto" />
+
+---
+hideInToc: true
 ---
 
 # Kubernetes
 
+<img src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png" alt="k8s" class="h-[400px] m-auto" />
+
+---
+hideInToc: true
 ---
 
 # GitOps
 
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Y6tgn7rC--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/adtqg2ubzidaac56rfz5.png" alt="gitops" class="h-[400px] m-auto" />
+
+---
+layout: statement
+hideInToc: true
+---
+
+# Don't Use Kubernetes (Yet)!
+
 ---
 layout: two-cols-header
+hideInToc: true
 ---
 
 # Cloud Providers
@@ -558,6 +608,22 @@ layout: two-cols-header
 ![](https://railway.app/brand/logo-dark.svg){width=120px; style="background: white"}
 
 ---
+layout: statement
+hideInToc: true
+---
+
+# Do we need microservice?
+
+---
+layout: center
+---
+
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F55838439-08de-4554-87d9-0fb14551aac1_1024x1087.jpeg" alt="microservice" class="h-[500px] m-auto" />
+
+---
+
+<Tweet class="m-auto" id="1597983918900510720"/>
+---
 layout: section
 hideInToc: true
 ---
@@ -566,6 +632,7 @@ hideInToc: true
 
 ---
 layout: center
+hideInToc: true
 ---
 
 # Clean Code
@@ -577,6 +644,7 @@ Credit: Clean Code
 ---
 level: 2
 layout: center
+hideInToc: true
 ---
 
 # Productivity vs Time
@@ -587,6 +655,7 @@ Credit: Clean Code
 ---
 level: 2
 layout: center
+hideInToc: true
 ---
 
 # Cost vs Time
@@ -596,6 +665,7 @@ layout: center
 
 ---
 layout: center
+hideInToc: true
 ---
 
 <img src="/image/big-refactor.png" class="h-300px"/>
@@ -639,6 +709,7 @@ Credit: [M2P Fintech](https://m2pfintech.com/blog/solid-principles-a-comprehensi
 
 ---
 level: 3
+hideInToc: true
 ---
 
 # Single Responsibility Priciple
@@ -756,10 +827,13 @@ layout: quote
 
 ---
 layout: center
+hideInToc: true
 ---
 
 # Unit Test
 
+---
+hideInToc: true
 ---
 
 # Myths about writing test
@@ -770,6 +844,8 @@ layout: center
 4. Tests don't catch real-world issues
 5. **Writing tests is not the developer's responsibility**
 
+---
+hideInToc: true
 ---
 
 # Test Driven Development (TDD)
