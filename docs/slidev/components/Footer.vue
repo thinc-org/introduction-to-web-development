@@ -17,6 +17,8 @@
       class="text-xl opacity-50 !border-none !hover:text-white"
     >
       <ThincLogo />
+
     </a>
+    Computer Engineering, Chulalongkorn University
   </div>
 </template>
