@@ -17,6 +17,9 @@
       <a href="https://www.facebook.com/saenyakorn.s">
         Facebook
       </a>
+      <a href="https://www.linkedin.com/in/saenyakorn/">
+        LinkedIn
+      </a>
     </div>
   </div>
 </div>

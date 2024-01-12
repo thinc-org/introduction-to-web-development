@@ -59,6 +59,31 @@ hideInToc: true
 ---
 
 ---
+src: ./pages/impact-we-made/mycourseville-survey1.md
+hideInToc: true
+---
+
+---
+src: ./pages/impact-we-made/mycourseville-survey2.md
+hideInToc: true
+---
+
+---
+layout: image
+image: /image/mcv-webflow.png
+---
+
+---
+layout: center
+---
+
+# MyCourseVille Next Gen Showcase
+
+<img src="/image/mcv-showcase-qr.png" alt="mcv-webflow" class="h-[400px] m-auto" />
+
+[Click here](https://mycourseville.webflow.io/)
+
+---
 src: ./pages/speaker/saenyakorn.md
 hideInToc: true
 ---

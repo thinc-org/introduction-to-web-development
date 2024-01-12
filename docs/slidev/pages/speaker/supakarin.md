@@ -17,6 +17,9 @@
       <a href="https://www.facebook.com/peam.naja">
         Facebook
       </a>
+      <a href="https://www.linkedin.com/in/supakarin/">
+        LinkedIn
+      </a>
     </div>
   </div>
 </div>
